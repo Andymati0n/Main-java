@@ -6,7 +6,7 @@ public class PalindromeTrial {
         Scanner input = new Scanner (System.in);
         
         //prompt users to enter a string (words)
-        System.out.print("Enter a strign (word): ");
+        System.out.print("Enter a string (word): ");
         String Word = input.nextLine();
         
         // the index of the first character in a string
